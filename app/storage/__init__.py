@@ -1,0 +1,1 @@
+"""Storage package for vector store and documents"""

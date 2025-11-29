@@ -1,0 +1,689 @@
+# BRIGHTPATH ANALYTICS PVT LTD
+## Data Security and Confidentiality Guidelines
+
+**Information Security Policy**
+
+**Effective Date:** January 1, 2025  
+**Version:** 1.0  
+**Last Updated:** November 2025
+
+---
+
+## 1. Introduction and Purpose
+
+Data security and confidentiality are critical to BrightPath Analytics' operations, customer trust, and legal compliance. This policy establishes expectations and guidelines for all employees regarding the protection of confidential information, responsible use of company systems, and data security practices.
+
+**Policy Goals:**
+- Protect BrightPath's proprietary information, intellectual property, and business secrets
+- Safeguard customer data and maintain customer trust
+- Comply with data protection laws and industry standards
+- Prevent unauthorized access, disclosure, or misuse of sensitive information
+- Ensure business continuity and operational security
+
+This policy applies to all employees, contractors, interns, and third parties with access to BrightPath systems or information.
+
+---
+
+## 2. Classification of Confidential Information
+
+### 2.1 What Is Confidential Information
+
+Confidential information includes any non-public information about BrightPath that, if disclosed, could reasonably harm the company, its customers, or employees. Examples include:
+
+**Business Information:**
+- Financial records, performance metrics, budgets, and projections
+- Customer lists, customer data, and client relationships
+- Pricing models, negotiated contracts, and terms of service
+- Strategic plans, business roadmaps, and corporate strategies
+- Vendor information and supplier contracts
+- Merger and acquisition plans or discussions
+
+**Technical Information:**
+- Source code, algorithms, and technical documentation
+- Product architecture and design specifications
+- Database schemas and system diagrams
+- Internal tools and development frameworks
+- Security vulnerabilities and patches
+- API keys, credentials, and access tokens
+
+**Employee Information:**
+- Personal data (addresses, phone numbers, family information)
+- Salary and compensation details
+- Performance reviews and evaluation comments
+- Medical or health information (if shared)
+- Disciplinary records or personnel files
+
+**Customer Data:**
+- Customer names, contact information, and accounts
+- Customer transactions and behavioral data
+- Customer analytics and insights
+- Customer communications and support tickets
+- Customer usage patterns and dashboards
+
+### 2.2 Public Information
+
+The following is **NOT confidential:**
+- Information already in the public domain
+- Information disclosed with prior written authorization from the company
+- Information that can be independently developed without reference to confidential information
+- Information that must be disclosed by law
+
+---
+
+## 3. Confidentiality Obligations
+
+### 3.1 Employee Responsibilities
+
+All employees must:
+
+1. **Protect Confidential Information**
+   - Use confidential information only for authorized business purposes
+   - Do not disclose to anyone outside the company without explicit permission
+   - Do not share with colleagues who don't have a business need to know
+   - Keep information secure (physically and digitally)
+
+2. **Know What's Confidential**
+   - Understand what information you handle and its sensitivity
+   - Ask your manager if you're unsure whether information is confidential
+   - Default to treating information as confidential if uncertain
+
+3. **Handle Information Carefully**
+   - Do not print or screenshot confidential information unless necessary
+   - Do not leave documents unattended on desks or conference tables
+   - Do not discuss sensitive information in public areas (cafeteria, elevators, hallways)
+   - Dispose of confidential documents by shredding (for paper) or secure deletion (for digital)
+
+4. **Report Incidents**
+   - Report any suspected data breach, unauthorized access, or security incident to IT or HR immediately
+   - Report any colleague sharing confidential information inappropriately
+   - Report suspected phishing or social engineering attempts
+
+5. **Maintain Confidentiality After Employment**
+   - Confidentiality obligations continue after you leave the company
+   - Do not disclose confidential information to future employers or personal networks
+   - Non-disclosure and non-compete agreements remain in effect post-employment
+
+### 3.2 Manager Responsibilities
+
+Managers must:
+- Educate team members on what information is confidential
+- Model confidentiality best practices
+- Enforce confidentiality standards within the team
+- Report any suspected breaches to HR/IT immediately
+- Restrict access to confidential information on a need-to-know basis
+
+### 3.3 IT and Security Responsibilities
+
+IT and security teams must:
+- Implement access controls and authentication mechanisms
+- Monitor for unauthorized access attempts
+- Encrypt sensitive data in transit and at rest
+- Maintain audit logs of data access
+- Respond to security incidents promptly
+- Provide security awareness training to employees
+
+---
+
+## 4. Information Access and Need-to-Know Principle
+
+### 4.1 Need-to-Know Basis
+
+Access to confidential information is granted on a **need-to-know basis**:
+- Employees should access only the information required for their role
+- Managers should restrict access to team members' information to their specific responsibilities
+- Access to customer data should be limited to employees supporting that customer
+
+### 4.2 Requesting Access
+
+Employees who need access to confidential information should:
+1. Request access from their manager, specifying what information and why
+2. Manager reviews and approves (or denies)
+3. Manager submits access request to the relevant department (IT, Finance, Customer Data team, etc.)
+4. Access is provisioned with login credentials or permissions
+5. Access is documented in the audit log
+
+### 4.3 Restricting Access
+
+Access is immediately revoked when:
+- An employee changes roles or teams
+- An employee is no longer responsible for a customer or project
+- An employee resigns or is terminated
+- A security incident suggests the access was misused
+- The information is no longer needed for the role
+
+**Managers are responsible for notifying IT when employees' access should be revoked.**
+
+---
+
+## 5. Use of Company Devices and Systems
+
+### 5.1 Company Devices (Laptops, Phones, Equipment)
+
+**Acceptable Use:**
+- Company devices are provided for work purposes
+- Limited personal use is acceptable if it does not interfere with work, violate policies, or breach confidentiality
+- Employees may check personal email or use social media on work devices during breaks
+- Using devices for learning or research related to job skills is encouraged
+
+**Prohibited Use:**
+- Downloading or visiting illegal content
+- Accessing adult or explicit content
+- Installing unauthorized or pirated software
+- Disabling security tools or antivirus software
+- Removing or tampering with security certificates
+- Using devices for financial fraud or unauthorized transactions
+- Sharing company devices with family members or unauthorized third parties
+
+**Device Security:**
+- Use a strong password or biometric authentication (fingerprint, face ID)
+- Lock the device when leaving your desk, even briefly
+- Enable full-disk encryption
+- Keep the operating system and software updated
+- Do not leave devices unattended in public areas
+- Use a privacy screen when working in open offices or public spaces
+
+**Monitoring:**
+- The company reserves the right to monitor, audit, and review device usage, emails, and system activity to ensure compliance with policies and law
+- Personal files on company devices may be accessed by IT or security teams if necessary for security investigation
+- Employees should have no expectation of privacy on company devices
+
+### 5.2 Personal Devices Accessing Company Systems
+
+**Policy:**
+- Employees may use personal devices to access company systems (email, tools, data) only if authorized and necessary for remote work
+
+**Requirements for Personal Device Use:**
+- Device must have a password-protected login
+- Device must have active antivirus or security software
+- Operating system must be kept updated with security patches
+- VPN must be used when connecting to company systems from public WiFi
+- MFA (multi-factor authentication) must be enabled for all logins
+- Device must not be shared with family members or unauthorized users
+
+**Prohibited:**
+- Rooting or jailbreaking the personal device
+- Disabling security features
+- Installing unauthorized apps or software
+- Syncing company data to personal cloud storage (Dropbox, Google Drive, OneDrive) without IT approval
+
+**Responsibility:**
+- Employee is responsible for device security; if compromised, company data could be at risk
+- If the device is lost or stolen, employee must notify IT immediately
+- If a data breach occurs due to unsecured personal device, the employee may be held liable
+
+### 5.3 Password Security
+
+**Strong Passwords:**
+- Minimum 12 characters
+- Mix of uppercase, lowercase, numbers, and symbols
+- Unique passwords for each account (don't reuse across systems)
+- Not based on personal information (birthdate, name, phone number)
+- Not common words or dictionary words
+
+**Password Management:**
+- Do NOT share your password with anyone, including managers, IT support, or colleagues
+- Do NOT write down passwords or store in plain text
+- Use a password manager (1Password, LastPass, Bitwarden) to store passwords securely
+- Change password if you suspect compromise
+- Do NOT use same password for company and personal accounts
+
+**Phishing and Social Engineering:**
+- Do NOT click links in emails claiming to be from "IT" or "HR" asking to verify passwords
+- Do NOT provide credentials to anyone who contacts you unexpectedly
+- If suspicious email or call is received, report to IT security@brightpath.com immediately
+
+### 5.4 Multi-Factor Authentication (MFA)
+
+- MFA must be enabled for all company systems (email, VPN, password manager, administrative tools)
+- MFA codes should be kept in a secure place (MFA app on your phone, not written down)
+- If you lose access to your MFA device, notify IT immediately
+- Backup codes provided by IT should be stored securely (encrypted safe, not in email)
+
+---
+
+## 6. Data Protection and Privacy
+
+### 6.1 Customer Data Handling
+
+**Classification of Customer Data:**
+- All customer data (names, emails, usage data, transactions) is confidential
+- Customer data is owned by the customer; BrightPath is a data processor/steward
+
+**Customer Data Access:**
+- Access is restricted to employees supporting that customer
+- Support staff, engineers, and account managers may have access; others do not
+- Requests for access to customer data require approval from the customer success manager or VP
+
+**Customer Data Retention:**
+- Data is retained only as long as necessary for the customer relationship and per the service agreement
+- Upon customer request or contract termination, data is securely deleted or returned
+- Backups are retained per the company's backup policy (typically 30–90 days), then deleted
+
+**Customer Data Export/Download:**
+- Employees should not download or export customer data to personal devices
+- If export is necessary, it must be encrypted and stored securely
+- Export should be the minimum data necessary for the business purpose
+- Downloaded data should be deleted immediately after use
+
+### 6.2 Personal Data and GDPR/Privacy Law Compliance
+
+**Personal Data:**
+- Includes names, email addresses, phone numbers, and any information identifying an individual
+- Personal data must be handled per applicable privacy laws (GDPR, India Privacy Act, etc.)
+
+**Consent:**
+- Personal data should be processed only with appropriate consent or legal basis
+- Employees should not collect or share personal data without authorization
+
+**Data Subject Rights:**
+- Individuals have rights to access, correct, and delete their personal data
+- Requests from customers or other individuals for their data should be forwarded to the privacy team
+
+### 6.3 Encryption and Data in Transit
+
+**Encryption Standards:**
+- Confidential data must be encrypted when transmitted over the internet
+- Email with sensitive attachments should be encrypted or password-protected
+- VPN must be used when connecting to company systems from public networks
+- HTTPS/TLS must be used for all web-based access
+
+**Encryption at Rest:**
+- Sensitive data stored on company servers is encrypted
+- Hard drives should be encrypted (BitLocker for Windows, FileVault for Mac)
+- Personal devices accessing company data must use full-disk encryption
+
+---
+
+## 7. Third-Party and Contractor Access
+
+### 7.1 Contractors and Consultants
+
+Third-party contractors and consultants who access company information must:
+- Sign a Confidentiality/NDA agreement before receiving access
+- Comply with all company security policies
+- Limit access to information necessary for their contracted work
+- Return all company information and devices upon completion of engagement
+- Not disclose confidential information to anyone else
+
+### 7.2 Vendor and Partner Compliance
+
+When sharing company information with vendors, partners, or service providers:
+- Ensure a Data Processing Agreement or NDA is in place
+- Limit information shared to what's necessary
+- Verify the vendor's security practices
+- Require encryption or secure transfer
+- Monitor vendor's compliance with security requirements
+
+### 7.3 Customer Data with Third Parties
+
+If customer data must be shared with a third party (e.g., vendor, processor):
+- Get explicit written approval from the customer (via service agreement or separate consent)
+- Ensure the third party signs a Data Processing Agreement
+- Inform the customer which vendors have access to their data
+- Ensure the third party implements adequate security measures
+
+---
+
+## 8. Remote Work and Home Office Security
+
+### 8.1 Remote Work Environment
+
+Employees working from home must:
+- Use a secure WiFi network (password-protected, not public WiFi)
+- Keep the home office area clean and secure (no sensitive documents left visible)
+- Use privacy screens when working in shared spaces or near windows
+- Close/lock doors when accessing sensitive information
+- Not discuss confidential information with family members or others in the home
+
+### 8.2 Public WiFi and Traveling
+
+**Public WiFi Risks:**
+- Do NOT access company systems on unsecured public WiFi without VPN
+- Do NOT work with customer data on public WiFi
+- Always use VPN when working remotely from coffee shops, airports, hotels, etc.
+
+**Traveling:**
+- Use hotel WiFi only with VPN enabled
+- Do not leave company devices unattended
+- Consider using privacy screen when working in public spaces
+- Be aware of people looking over your shoulder ("shoulder surfing")
+
+---
+
+## 9. Communication Security
+
+### 9.1 Email Security
+
+**Email Best Practices:**
+- Do not email passwords or sensitive credentials
+- Use encryption for email with sensitive attachments
+- Verify the recipient email address before sending
+- Do not click suspicious links or download unexpected attachments
+
+**Phishing Prevention:**
+- Be cautious of emails requesting urgent action or claiming account issues
+- Verify sender identity (check email address, not just display name)
+- Hover over links to see actual URL before clicking
+- Report suspicious emails to security@brightpath.com
+
+### 9.2 Instant Messaging (Slack)
+
+**Slack Usage:**
+- Use private channels for sensitive discussions, not open channels
+- Do not share passwords or credentials in Slack
+- Be aware that Slack messages are logged and may be reviewed
+- Sensitive file transfers should use encrypted methods, not Slack
+
+**Slack File Sharing:**
+- Do not share confidential documents in public channels
+- Use private direct messages or private channels for sensitive information
+- Be cautious of whom you grant access to file downloads
+
+### 9.3 Video Conferencing
+
+**Zoom, Google Meet, Microsoft Teams:**
+- Use password-protected meetings for sensitive discussions
+- Do not record meetings without participant consent (and document it in meeting minutes)
+- Be aware of who can see your screen and what information is visible
+- Close applications with confidential information before screen sharing
+- Use "waiting room" to control participant entry
+- Disable screen sharing for participants who don't need it
+
+---
+
+## 10. Incident Response and Breach Notification
+
+### 10.1 Security Incident Definition
+
+A security incident is:
+- Unauthorized access to company systems or data
+- Loss or theft of company device or information
+- Data breach (confidential data exposed to unauthorized parties)
+- Suspected malware or ransomware infection
+- Phishing attack or social engineering attempt
+- Accidental disclosure of confidential information
+- Suspicious activity on company accounts
+
+### 10.2 Reporting an Incident
+
+**Immediate Actions:**
+1. Stop using the affected device or system
+2. Do not attempt to investigate or fix the issue
+3. Report immediately to IT and HR:
+   - **IT Security:** security@brightpath.com or call +91-80-XXXX-XXXX (ext. 6100)
+   - **HR:** hr@brightpath.com or call +91-80-XXXX-XXXX (ext. 5000)
+
+**Report Details:**
+- What happened (describe the incident)
+- When it was discovered
+- What information or systems are affected
+- Who was involved (if external threat actor)
+- What actions you've already taken
+
+### 10.3 Breach Notification
+
+**Company Responsibility:**
+- IT and HR will investigate the incident
+- HR will notify affected individuals (if personal data is compromised)
+- Company will notify regulatory authorities (if required by law)
+- Company will notify customers if customer data is at risk
+
+**Employee Responsibility:**
+- Cooperate fully with the investigation
+- Do not discuss the breach publicly or with media
+- Follow instructions from IT and HR on remediation
+
+### 10.4 Incident Investigation
+
+**Investigation Process:**
+1. IT isolates affected systems (if necessary, to prevent further damage)
+2. IT performs forensics to determine scope and impact
+3. HR documents the incident and employee responses
+4. HR conducts interviews with involved parties
+5. IT implements fixes and security improvements
+6. HR communicates findings and next steps
+
+**No Retaliation:**
+- Employees who report suspected incidents in good faith are protected from retaliation
+- Reporting a mistake (e.g., accidentally sharing a file) is encouraged; cover-ups are not
+
+---
+
+## 11. Data Deletion and Document Destruction
+
+### 11.1 Document Disposal
+
+**Physical Documents:**
+- Confidential documents should be shredded, not thrown away
+- Use the company shredding service for bulk destruction
+- Employees with a shredder can destroy at their desk or office
+
+**Digital Files:**
+- Simply deleting files does not permanently remove them (they can be recovered)
+- Use secure deletion: Shift+Delete (Windows), Command+Option+Delete (Mac), or dedicated tools (CCleaner, Eraser)
+- Files on encrypted drives are more secure; deletion is more permanent
+- For large data deletions, contact IT for secure destruction
+
+### 11.2 Departing Employee Data
+
+**Upon Resignation or Termination:**
+- Employee's personal files on company devices are archived (not permanently deleted)
+- Archived files are retained for 90 days in case of dispute or legal hold
+- After 90 days, files are securely deleted
+- Employee can request personal files be returned before deletion
+- Sensitive or business-critical files are transferred to the employee's manager or successor
+
+---
+
+## 12. Intellectual Property and Code Ownership
+
+### 12.1 Company Ownership
+
+All work created by employees during employment is owned by BrightPath, including:
+- Source code and software developed
+- Documentation and technical writing
+- Product designs and specifications
+- Marketing materials and content
+- Tools and utilities created for company use
+
+### 12.2 Open Source and Third-Party Code
+
+**Approved Use:**
+- Open-source libraries and frameworks are permitted for company projects
+- License compliance is required (GPL, MIT, Apache, etc. have different rules)
+- IT maintains a list of approved open-source libraries
+
+**Prohibited:**
+- Copying code from competitors' products
+- Using third-party code without appropriate license attribution
+- Violating GPL requirements (requiring code to be open source)
+
+### 12.3 Personal Projects
+
+- Work on personal projects using company equipment or time is prohibited
+- Personal projects developed after hours on personal equipment are generally employee-owned (not company property)
+- If a personal project relates to company business or uses company knowledge, it may be company property (discuss with manager)
+
+---
+
+## 13. Social Media and Public Disclosure
+
+### 13.1 Company Official Communications
+
+- Do not make official statements about BrightPath on social media without authorization
+- Only CEO, marketing team, and designated spokespeople may represent the company publicly
+- Personal social media accounts should not be presented as company channels
+
+### 13.2 Personal Social Media Use
+
+**Acceptable:**
+- Sharing company news or achievements (with appropriate context)
+- Recommending the company as a great place to work
+- Discussing general industry trends or your professional growth
+
+**Prohibited:**
+- Disclosing confidential information, customer data, or strategic plans
+- Making disparaging or offensive comments about the company, customers, or colleagues
+- Using company logos or branding without permission
+- Claiming to speak for the company
+
+### 13.3 Company Social Media Accounts
+
+- Company Facebook, LinkedIn, Twitter, Instagram accounts are managed by marketing
+- Employees may be asked to contribute or share official company posts
+- Personal content or unsanctioned posts on company accounts are prohibited
+
+---
+
+## 14. Security Awareness Training
+
+### 14.1 Mandatory Training
+
+All employees must complete:
+- **Initial Training:** Within first week of employment
+  - Data security basics
+  - Confidentiality obligations
+  - Password security and MFA
+  - Phishing prevention
+  
+- **Annual Refresher:** Every fiscal year
+  - Updates on security threats
+  - Policy changes
+  - Case studies of real incidents
+  - Best practices
+
+### 14.2 Role-Specific Training
+
+Employees with access to sensitive data (customer data, financial information, source code) must complete additional training:
+- GDPR/privacy law compliance
+- Secure data handling
+- Encryption and VPN usage
+- Audit and compliance processes
+
+### 14.3 Incident Simulations
+
+The company conducts periodic phishing simulations and security testing:
+- Employees may receive fake phishing emails to test awareness
+- Clicking suspicious links or downloading attachments is tracked and reported
+- Training is provided to employees who fall for simulated phishing
+- Results are confidential; no punishment, only coaching
+
+---
+
+## 15. Compliance and Auditing
+
+### 15.1 Security Audits
+
+The company conducts regular security audits:
+- External third-party audits (annual)
+- Internal IT security assessments
+- Access control reviews (quarterly)
+- Data backup and disaster recovery testing (biannual)
+
+### 15.2 Employee Monitoring
+
+To ensure compliance, the company may:
+- Review access logs to confidential data
+- Audit email for policy violations or data exfiltration
+- Monitor device usage and USB/external device connections
+- Review file transfer logs
+- Monitor for unauthorized software installation
+
+**Privacy Protections:**
+- Monitoring is done per applicable privacy laws
+- Personal communications may be reviewed only with legal authorization
+- Results are shared only with authorized personnel
+- Employees are notified of monitoring practices
+
+### 15.3 Compliance Certification
+
+Employees confirm compliance by:
+- Signing the confidentiality acknowledgment (initial employment)
+- Completing annual security training
+- Attending role-specific training (as required)
+- Acknowledging policy updates
+
+---
+
+## 16. Violations and Consequences
+
+### 16.1 Policy Violations
+
+Examples of violations:
+- Disclosing confidential information to unauthorized persons
+- Unauthorized access to confidential systems or data
+- Sharing passwords or disabling security controls
+- Misusing company devices or systems
+- Failing to report suspected security incidents
+- Violating customer data protection agreements
+- Downloading or accessing prohibited content on company devices
+
+### 16.2 Disciplinary Action
+
+**Consequences depend on severity:**
+
+| Violation | Severity | Action |
+|-----------|----------|--------|
+| Phishing click (first time) | Low | Training/coaching |
+| Failing to lock device | Low–Medium | Reminder, escalation if repeated |
+| Sharing password with colleague | Medium | Written warning, retraining |
+| Downloading confidential data without authorization | High | Suspension, possible termination |
+| Intentional data theft or sale | Critical | Immediate termination + legal action |
+
+### 16.3 Legal Consequences
+
+Serious violations may result in:
+- Criminal prosecution for data theft
+- Civil lawsuits for damages
+- Enforcement of non-compete and non-disclosure agreements
+- Restraining orders preventing disclosure
+
+---
+
+## 17. Frequently Asked Questions
+
+**Q: Can I take a photo of my screen to share with a colleague?**  
+A: Avoid screenshots if the screen contains confidential information. If necessary, redact sensitive details before sharing. Better: Use a secure file transfer or direct system access rather than screenshots.
+
+**Q: Is it okay to work on a customer case on my personal laptop at home?**  
+A: Only if you have written approval for remote work and your personal device has full-disk encryption and VPN access. Company data should not be on unencrypted personal devices.
+
+**Q: I accidentally sent customer data to the wrong email address. What should I do?**  
+A: Report immediately to IT security@brightpath.com. Do not attempt to "unsend." IT will contact the recipient and take steps to retrieve or quarantine the email.
+
+**Q: Can I discuss BrightPath strategy in a closed LinkedIn discussion group?**  
+A: No. LinkedIn discussions, even "private" groups, are not confidential. Do not disclose strategic or confidential information on any social platform.
+
+**Q: What happens if I find a confidential document left on a printer or in a meeting room?**  
+A: Secure the document, do not read it if it's not relevant to you, and return it to the owner or HR. Report the incident to your manager to prevent future occurrences.
+
+**Q: Can I give my password to IT support if they ask for it to troubleshoot my account?**  
+A: No. IT should never ask for your password. Legitimate IT support resets passwords or uses administrative access without needing your password. If this request is made, report it as a suspected phishing/social engineering attempt.
+
+---
+
+## 18. Related Policies
+
+- Employee Handbook (Section 8: Data Protection and Acceptable Use)
+- Remote Work Policy & Agreement
+- Code of Conduct
+
+---
+
+## 19. Contact and Questions
+
+**Data Security and Confidentiality Questions:**  
+- Security team: security@brightpath.com or +91-80-XXXX-XXXX (ext. 6100)
+
+**Privacy and Data Protection Questions:**  
+- Privacy Officer: privacy@brightpath.com
+
+**Incident Reporting:**  
+- Security: security@brightpath.com (24/7 monitored)
+- HR: hr@brightpath.com or +91-80-XXXX-XXXX (ext. 5000)
+
+---
+
+**All employees acknowledge and agree to comply with this Data Security and Confidentiality Policy.**
+
+**End of Data Security and Confidentiality Guidelines**

@@ -69,4 +69,4 @@ build/
 *.tmp
 *.temp
 .cache/
-
+.venv311/

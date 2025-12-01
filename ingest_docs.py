@@ -5,8 +5,8 @@ Run this AFTER adding HR docs to ./docs/ folder
 """
 import os
 import sys
-from langchain.vectorstores import Chroma
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_chroma import Chroma
+from langchain_openai import OpenAIEmbeddings
 from app.config import settings
 from app.storage.document_loader import load_and_chunk_documents
 from app.utils.logger import logger
@@ -47,7 +47,7 @@ def ingest_documents():
             persist_directory=settings.CHROMA_PATH,
             collection_name="brightpath_hr_policies"
         )
-        vectorstore.persist()
+        # Chroma persists automatically, no need to call persist()
         
         # Step 5: Verify ingestion
         logger.info("✅ Document ingestion completed successfully!")

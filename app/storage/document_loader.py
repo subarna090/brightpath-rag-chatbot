@@ -1,7 +1,7 @@
 """Document loading and chunking for HR policies"""
 import os
-from langchain.document_loaders import DirectoryLoader, TextLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from app.config import settings
 from app.utils.logger import logger
@@ -14,10 +14,10 @@ def load_hr_documents(docs_path: str = "./docs") -> List[Document]:
             logger.warning(f"⚠️  Docs path does not exist: {docs_path}")
             return []
         
-        # Load all BrightPath_*.md files
+        # Load all BrightPath_* files (with or without .md extension)
         loader = DirectoryLoader(
             docs_path,
-            glob="BrightPath_*.md",
+            glob="BrightPath_*",
             loader_cls=TextLoader,
             show_progress=True,
             loader_kwargs={"encoding": "utf-8"}
